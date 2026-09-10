@@ -1,0 +1,17 @@
+{
+  "selected_model": "Logistic Regression",
+  "roc_auc": 0.6503480859841752,
+  "precision": 0.17485822306238186,
+  "recall": 0.5270655270655271,
+  "f1": 0.262597586941093,
+  "confusion_matrix": [
+    [
+      1776,
+      873
+    ],
+    [
+      166,
+      185
+    ]
+  ]
+}
